@@ -1,0 +1,4 @@
+starlette
+graphene
+uvicorn
+pytest

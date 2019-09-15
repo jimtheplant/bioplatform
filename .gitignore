@@ -1,0 +1,8 @@
+build/
+dist/
+*.egg-info/
+venv/
+.idea/
+requirements.txt
+.pytest_cache/
+bioplatform/__pycache__/

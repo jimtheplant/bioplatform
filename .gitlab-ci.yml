@@ -1,0 +1,5 @@
+image: python
+
+before_script:
+  - pip install -r requirements
+
